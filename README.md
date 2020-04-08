@@ -2,6 +2,8 @@
 ## Created by Mick
 My web projects arranged by date from older to newer.
 
-https://michaelsobhy.github.io/0-Hello-World/
+[Hello World](https://michaelsobhy.github.io/0-Hello-World/)
 
-https://michaelsobhy.github.io/1-DevProject/
+[HTML/CSS getting started](https://michaelsobhy.github.io/1-DevProject/)
+
+
