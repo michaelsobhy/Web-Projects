@@ -1,4 +1,4 @@
-# Web-Projects
+# Codecademy Full-stack Path Projects
 ## Created by Mick
 My web projects arranged by date from older to newer.
 
